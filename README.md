@@ -4,7 +4,7 @@ I have successfully transitioned to Software Development from Telecommunications
 I am CURRENTLY a Frontend Developer building stuff with React and Vue.
 
 - 🔭 I am Dora, the Tech Explorer
-- 🌱 Exploring my varying interests in Data Analytics and Cloud Architecture
+- 🌱 Exploring my varying interests in Data Analytics, Cloud Architecture and Web Development
 - 👯 2021 will be so chill
 - 📫 Reach me on Twitter 
 - 😄 Pronouns: She/Her
